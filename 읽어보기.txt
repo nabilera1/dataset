@@ -1,0 +1,3 @@
+- 생물 성장 데이터셋
+- https://data.smartfarmkorea.net/structuredData/selectContHortiCultureDataViewLists.do#envInfo
+
